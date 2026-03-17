@@ -422,5 +422,9 @@
   {
     "id": "mod-z3950-4.0.1",
     "action": "enable"
+  },
+  {
+    "id": "okapi-6.3.0",
+    "action": "enable"
   }
 ]
