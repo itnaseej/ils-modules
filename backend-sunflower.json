@@ -340,10 +340,6 @@
     "action": "enable"
   },
   {
-    "id": "mod-scheduler-2.3.6",
-    "action": "enable"
-  },
-  {
     "id": "mod-search-5.0.5.1.2.1",
     "action": "enable"
   },
@@ -417,6 +413,10 @@
   },
   {
     "id": "okapi-6.3.0",
+    "action": "enable"
+  },
+  {
+    "id": "mod-scheduler-2.3.6",
     "action": "enable"
   }
 ]
