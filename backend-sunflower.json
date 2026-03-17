@@ -100,10 +100,6 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-import-checkout-handler-1.2.5",
-    "action": "enable"
-  },
-  {
     "id": "mod-data-import-ext-1.5.8",
     "action": "enable"
   },
