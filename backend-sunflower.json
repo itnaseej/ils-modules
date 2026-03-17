@@ -410,9 +410,5 @@
   {
     "id": "mod-search-5.0.5.1.2.1",
     "action": "enable"
-  },
-  {
-    "id": "mod-resources-merge-1.6.0",
-    "action": "enable"
   }
 ]
